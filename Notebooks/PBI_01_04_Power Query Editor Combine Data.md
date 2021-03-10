@@ -1,4 +1,4 @@
-
+Can you join queries with no matching collumns?
 # Combine Queries
 - In power BI, we can combine data two ways
 	1. Append
